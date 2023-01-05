@@ -23,11 +23,11 @@ This project generates a course schedule based on the given user inputs. The sch
 	## Example
 	**Input:**
 	```sh
-	Enter a course and it's prerequisites (enter `q` when finished)> CS101
-	Enter a course and it's prerequisites (enter `q` when finished)> CS110: CS101
-	Enter a course and it's prerequisites (enter `q` when finished)> CS111: CS101
-	Enter a course and it's prerequisites (enter `q` when finished)> CS121: CS110, CS111
-	Enter a course and it's prerequisites (enter `q` when finished)> q
+	Enter a course and its prerequisites (enter `q` when finished)> CS101
+	Enter a course and its prerequisites (enter `q` when finished)> CS110: CS101
+	Enter a course and its prerequisites (enter `q` when finished)> CS111: CS101
+	Enter a course and its prerequisites (enter `q` when finished)> CS121: CS110, CS111
+	Enter a course and its prerequisites (enter `q` when finished)> q
 	```
 	
 	**Output:**
